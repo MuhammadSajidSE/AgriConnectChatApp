@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "150034354731",
+    "project_id": "agriconnectchatapp",
+    "storage_bucket": "agriconnectchatapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150034354731:android:19da982d10d40f280ad06e",
+        "android_client_info": {
+          "package_name": "com.example.agriconnectchatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5Mf6bhWruHfcNQxH4iaEVir_zNgwwSbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150034354731:android:2ad6e758ec0608020ad06e",
+        "android_client_info": {
+          "package_name": "com.example.newchatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5Mf6bhWruHfcNQxH4iaEVir_zNgwwSbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
